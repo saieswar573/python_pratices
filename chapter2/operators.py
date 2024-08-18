@@ -18,3 +18,18 @@ print(a,b)
 a=2
 b=2
 print(a==b)
+print(a>b)
+print(a<b)
+print(a!=b)
+
+
+# logical operatators in python
+a=1
+b=2
+print(a==b and a>b)
+print(a==b or a<b)
+print(not(a>b))
+
+
+
+
