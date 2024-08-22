@@ -18,9 +18,9 @@
 # print("a is greater than b is:",a>b)
 
 
-a=float(input('Enter the value a: '))
-b=float(input('Enter the value of b : '))
-print((a+b)/2)
+# a=float(input('Enter the value a: '))
+# b=float(input('Enter the value of b : '))
+# print((a+b)/2)
 
 
 
